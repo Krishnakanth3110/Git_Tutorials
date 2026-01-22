@@ -1,2 +1,3 @@
 
-Hi this is krishna 
+Hi this is krishnakanth reddy
+I am learning git and github
